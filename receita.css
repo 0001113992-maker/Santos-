@@ -1,0 +1,44 @@
+ body{
+    font-family: Arial,sans-serif;
+    background-color: rgb(146, 108, 163);
+    color: beige;
+    margin: 0;
+    padding: 20px;
+   }
+   header {
+    background-color: rgb(149, 151, 230);
+    border-radius: black;
+    text-align: center;
+    padding:  20px;
+    border-radius: 10px;
+   }
+   section {
+    background-color: rgb(121, 124, 84);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 2px 5px
+rgba(red, green, blue, alpha)
+   }
+   h2{
+    color: blueviolet;
+   }
+   ul{
+    line-height: 1.8;
+   }
+   footer{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: bisque;
+   }
+   table,th,td{
+    border: solid 5px;
+    border: white 35%;
+    margin: 0% auto;
+    border:2px solid black
+    
+   }
+   th{
+    color:black
+   }
